@@ -54,5 +54,5 @@ showLyric("Your line 1", "Your line 2", delay_time);
 
 6. 🎵 Custom Icons
    You can also use:
-   lcd.write(byte(0));  → ❤️ (heart)
-   lcd.write(byte(1));  → 🎵 (music note)
+-lcd.write(byte(0));  → ❤️ (heart)
+-lcd.write(byte(1));  → 🎵 (music note)
